@@ -59,7 +59,7 @@ The Temperature Conversion Calculator tells the user the temperature that the us
 
 This algorithm inverts any text typed into a txt file.
 
-##### Invert Words and Phrase
+##### Invert Words and Phrases
 
 This algorithm inverts words and phrases.
 
