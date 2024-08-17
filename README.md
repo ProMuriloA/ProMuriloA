@@ -41,6 +41,7 @@ chmod +x ./calc.sh
 2. Press enter
 3. Run ./calc.sh in your terminal by typing in :
    ./calc.sh
+4. Press enter
 5.  Interact with it there. A list is going to appear and you will be able to choose a tool.
 
 #### Tool List:
