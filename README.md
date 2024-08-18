@@ -11,7 +11,7 @@ I'm a Software Engineering student and this is my GitHub account. Feel free to b
 
 Eu sou um estudante de Engenharia de Software e esta é minha conta do GitHub. Sinta-se à vontade para navegar pelos repositórios, há alguns projetos neles que eu estou desenvolvendo.
 
-# Repositórios:
+# Repositories:
 
 ## CodeBlog
 
