@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ProMuriloA
 - 🌱 I’m currently learning Javascript Web Development
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me: muriloaprofissional@outlook.com
+- Estou disponível para vagas de emprego!
+- I'm open to work!
+- Email:muriloaprofissional@outlook.com
+- LinkedIn: https://www.linkedin.com/in/murilo-assis-62a03b232/
   
 ### I'm Murilo Assis.
 
