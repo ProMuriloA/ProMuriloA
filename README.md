@@ -1,15 +1,13 @@
 - 👋 Hi, I’m @ProMuriloA
 - 🌱 I’m currently learning Javascript Web Development
 - Estou disponível para vagas de emprego!
-- I'm open to work!
-- Email:muriloaprofissional@outlook.com
-- LinkedIn: https://www.linkedin.com/in/murilo-assis-62a03b232/
+- I'm open to work
   
-### I'm Murilo Assis.
+### I'm Murilo
 
 I'm a Software Engineering student and this is my GitHub account. Feel free to browse the repositories, there are some projects there that I'm working on.
 
-### Eu sou Murilo Assis.
+### Eu sou Murilo
 
 Eu sou um estudante de Engenharia de Software e esta é minha conta do GitHub. Sinta-se à vontade para navegar pelos repositórios, há alguns projetos neles que eu estou desenvolvendo.
 
